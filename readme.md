@@ -51,6 +51,10 @@ Perfumy/
 
 ---
 
+## Demo
+
+![Website Screenshot](image.png)
+
 ## 🎯 Learning Outcomes
 
 - Understanding HTML page structure
