@@ -53,7 +53,7 @@ Perfumy/
 
 ## Demo
 
-![Website Screenshot](image.png)
+![Website Screenshot](/assets/image.png)
 
 ## 🎯 Learning Outcomes
 
